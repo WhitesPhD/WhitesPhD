@@ -6,3 +6,5 @@ My research interests span Macro-finance, empirical asset pricing, financial eco
 I am also an advisor for Aaro Capital Ltd and research director for AlphieWealth Robo-Advisor.  
 
 My research has been presented at conferences organized by the American Economic Association (AEA), the American Finance Association (AFA), National Bureau of Economic Research (NBER), the Econometric Society, the European Finance Association (EFA), the Royal Economic Society (RES), the European Economic Association (EEA), the Society for Economic Dynamics (SED), the Society for Financial Econometrics (SoFiE), and the Society for Financial Studies (SFS). My publications include The Review of Financial Studies, the Journal of Econometrics, the Journal of Business and Economic Statistics, the Journal of Financial Econometrics, and the Journal of Economic Dynamics and Control. 
+
+Here you can find codes and material about some of my research projects and teaching. Hope you find this material useful. 
