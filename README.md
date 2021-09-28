@@ -1,4 +1,4 @@
-Hi, I a Senior Lecturer (Associate Professor) in Finance at the School of Economics and Finance, Queen Mary, University of London. 
+Hi, I am Senior Lecturer (Associate Professor) in Finance at the School of Economics and Finance, Queen Mary, University of London. 
 Previously, I have been an Assistant Professor at the Warwick Business School, University of Warwick (that I joined in the Fall of 2014). 
 I was awarded a Ph.D by the Department of Finance at Bocconi University in Spring 2014. I have been a visiting scholar at the McCombs School of Business 
 at UT Austin in Texas, at University "Ca' Foscari" of Venice in Italy, and at the Nova School of Business and Economics in Lisbon. 
